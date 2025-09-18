@@ -7,4 +7,4 @@ With this in mind, I plan to change my ways of failing to use github; I plan on 
 With this in mind. Here are my projects...
 
 ### Rust
-1. First Project - Rust Hello World: https://github.com/IRennie74/Hello-World-Rust 
+1. First Project - Rust Hello World: [a link](https://github.com/IRennie74/Hello-World-Rust )
