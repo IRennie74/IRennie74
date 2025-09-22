@@ -7,4 +7,5 @@ With this in mind, I plan to change my ways of failing to use github; I plan on 
 With this in mind. Here are my projects...
 
 ### Rust
+2. First Cargo Use - [Cargo Hello World](https://github.com/IRennie74/cargo_hello_world_rust)
 1. First Project - [Rust Hello World](https://github.com/IRennie74/Hello-World-Rust )
