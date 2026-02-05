@@ -1,5 +1,5 @@
 ## My Progress
 
-I am currently a Queens U student in ontario. In the past I have done a terrible job of using github to track my work and projects.
+I am currently a Queens U student in ontario. In the past Java has been my favourite and chosen language.
 
-With this in mind, I plan to change my ways of failing to use github; I plan on saving all projects I make while learning Rust (even the most basic concepts).
+As of late I have been doing more work in Rust and JS.
