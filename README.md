@@ -19,7 +19,7 @@ I build products and study computer science at the same time. Broctic makes soft
 
 Computer Science coursework, plus the tools I build to learn it faster:
 
-- **[study-pack-skill](https://github.com/IRennie74/study-pack-skill)**: my study method as a Claude Code skill. It turns a folder of course materials into five PDFs: a mock test, an answer key, a problem workbook with show-your-work solutions, a master reference and concept notes.
+- **[Class Study Compiler Skill](https://github.com/IRennie74/Class-Study-Compiler-Skill)**: my study method as a Claude Code skill. It turns a folder of course materials into five PDFs: a mock test, an answer key, a problem workbook with show-your-work solutions, a master reference and concept notes.
 - Coursework: [CISC 221 Systems Architecture](https://github.com/IRennie74/CISC221-Assignment-2) · [CISC 235 Data Structures](https://github.com/IRennie74/CISC235-Assignment-2) · [CISC 124](https://github.com/IRennie74/cisc124-assignment4-rectangleclass) · [CISC 121](https://github.com/IRennie74/queens-student-page)
 - Practice: [NeetCode submissions](https://github.com/IRennie74/neetcode-submissions)
 
